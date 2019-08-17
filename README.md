@@ -17,3 +17,15 @@ we've covered the following aspects of Elixir:
 * Interacting with Erlang from Elixir
 * The pipe operator
 * Documentation and testing
+
+## `/identicon`
+
+Another command-line program to generate an identicon image based on a string. In this exercise
+here's what we learned:
+
+* Maps and keyword lists
+* Structs
+* Working more with Erlang
+* More about `Enum`
+* Anonymous functions
+* Maths in Elixir
