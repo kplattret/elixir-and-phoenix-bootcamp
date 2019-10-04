@@ -29,3 +29,17 @@ here's what we learned:
 * More about `Enum`
 * Anonymous functions
 * Maths in Elixir
+
+## `/discuss`
+
+An introduction to Phoenix, the web framework for Elixir. Here we have learned about the following:
+
+* Models, views and controllers in Phoenix
+* The router
+* Front-end templates for the views
+* Ecto migrations, changesets and validation
+* CRUD operations in Phoenix
+* Error handling
+* Authentication with OAuth
+* Model relationships
+* Web Sockets using built-in channels
